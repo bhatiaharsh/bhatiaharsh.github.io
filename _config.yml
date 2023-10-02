@@ -23,6 +23,8 @@ location: San Francisco Bay Area
 
 navbar-links:
   Awards: "awards"
+  Research: "research"
+  Software: "software"
   Publications: "publications"
 
 # # Pages shown in navbar
