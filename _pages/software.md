@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+permalink: /software/
 # subtitle: Why you'd want to go on a date with me
 ---
 
@@ -31,7 +32,7 @@ I developed this award-winning technology as part of my research at LLNL.
 ### MemSurfer
 MemSurfer is an efficient and versatile tool to compute and analyze **membrane surfaces** found in a wide variety of large-scale molecular simulations. MemSurfer works independent of the type of simulation, directly on the **3D point coordinates**, and can handle a variety of membranes as well as atomic simulations. MemSurfer provides many in-built analysis tasks, such as computing the membrane curvature, density and normals of lipids, and area per lipid. More importantly, MemSurfer provides a simple-to-use Python API that may be easily used/extended to perform other types of analysis.
 * Code: <a href="https://github.com/LLNL/MemSurfer" target=_blank>github</a>.
-* Paper:  <a href="https://doi.org/10.1002/jcc.25181" target=_blank>JCC 2018</a>.
+* Paper:  <a href="https://doi.org/10.1021/acs.jctc.9b00453" target=_blank>JCTC 2019</a>.
 * Technologies:
   - Python, C++, Cmake, VTK, CGAL, boost, eigen
   - Computational topology, Computational geometry, Surface reconstruction

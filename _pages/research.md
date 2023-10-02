@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+permalink: /research/
 # subtitle: Why you'd want to go on a date with me
 ---
 
@@ -91,7 +92,7 @@ combine the two traditional axes of data reduction --- **reducing data precision
 (e.g., compression) and **reducing data resolution** (e.g., spatial hierarchies). See
 <a href="https://doi.org/10.1109/TVCG.2018.2864853" target=_blank>TVCG 2018</a>,
 <a href="https://doi.org/10.1109/TVCG.2020.3030381" target=_blank>TVCG 2020</a>,
-<a href="http://dx.doi.org/10.1109/LDAV53230.2021.00011" target=_blank>LDAV 2021</a>.
+<a href="http://dx.doi.org/10.1109/LDAV53230.2021.00011" target=_blank>LDAV 2021</a>,
 <a href="https://doi.org/10.1109/TVCG.2022.3165392" target=_blank>TVCG 2022</a>, and
 <a href="https://doi.org/10.1109/TVCG.2023.3260628" target=_blank>TVCG 2023</a> papers.
 

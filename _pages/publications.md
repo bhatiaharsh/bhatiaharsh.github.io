@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap: false
-#permalink: /publications/
+permalink: /publications/
 #years: [2016, 2017, 2018, 2019, 2020, 2021]
 ---
 
@@ -18,8 +18,8 @@ sitemap: false
     K Nguyen, G Dharuman, V Burns, R Shrestha, D Goswami, G  Gulten, QN Van,
     A Ramanathan, B Van Essen, NW Hengartner, AG Stephen, T Turbyville, P-T Bremer,
     S Gnanakaran, JN Glosli, FC Lightstone, DV Nissley, and FH Streitz.<br>
-  <i>Journal of Chemical Theory \& Computation</i> vol. 19, issue 9,
-    pp. 2658--2675, Apr 2023.
+  <i>Journal of Chemical Theory & Computation</i> vol. 19, issue 9,
+    pp. 2658&ndash;2675, Apr 2023.
   <a href="https://doi.org/10.1021/acs.jctc.2c01018" target=_blank>doi:10.1021/acs.jctc.2c01018</a>.
 </p></li>
 
@@ -65,7 +65,7 @@ sitemap: false
     FH Streitz, AG Stephen, TJ Turbyville, FC Lightstone, S Gnanakaran,
     HI Ingólfsson, C Neale.<br/>
   <i>Journal of Computational and Theoretical Chemistry</i>
-    vol. 18, issue 8, pp. 5025--5045, Jul 2022.
+    vol. 18, issue 8, pp. 5025&ndash;5045, Jul 2022.
   <a href="https://doi.org/10.1021/acs.jctc.2c00168" target=_blank>doi:10.1021/acs.jctc.2c00168</a>.
 </p></li>
 
@@ -77,7 +77,7 @@ sitemap: false
     T Oppelstrup, NW Hengartner, DK Simanshu, P-T Bremer, De Chen, JN Glosli,
     R Shrestha, TJ Turbyville, FH Streitz, DV Nissley, HI Ingólfsson, AG Stephen,
     FC Lightstone, and S Gnanakaran.<br/>
-  <i>Biophysics Journal</i>, vol. 121, issue 19, pp. 3630--3650, Oct 2022.
+  <i>Biophysics Journal</i>, vol. 121, issue 19, pp. 3630&ndash;3650, Oct 2022.
   <a href="https://doi.org/10.1016/j.bpj.2022.06.035" target=_blank>doi:10.1016/j.bpj.2022.06.035</a>.
 </p></li>
 
@@ -87,7 +87,7 @@ sitemap: false
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
     vol. 28, issue 6, pp. 2350&ndash;3363, Jun 2022.
   <a href="https://doi.org/10.1109/TVCG.2022.3165392" target=_blank>doi:10.1109/TVCG.2022.3165392</a>.
-  &nbsp;&nbsp;&nbsp;&nbsp;<b>Best Paper Award</b> at IEEE Pacific Visualization Symposium.
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>Best Paper Award</b> at IEEE Pacific Visualization Symposium.
 </p></li>
 
 <li><p >
@@ -110,7 +110,7 @@ sitemap: false
   SP Kesavan, <u>Harsh Bhatia</u>, A Bhatele, S Brink, O Pearce, T Gamblin,
     P-T Bremer, and K-L Ma.<br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
-    vol. 29, issue 3, 1691--1704, Nov, 2021.
+    vol. 29, issue 3, 1691&ndash;1704, Nov, 2021.
   <a href="https://doi.org/10.1109/TVCG.2021.3129414" target=_blank>doi:10.1109/TVCG.2021.3129414</a>.
 </p></li>
 

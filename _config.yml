@@ -5,9 +5,9 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
-############################
+# ------------------------------------------------------------------------------
 # --- Required options --- #
-############################
+# ------------------------------------------------------------------------------
 
 # Name of website
 title: Harsh Bhatia
@@ -17,9 +17,9 @@ author: Harsh Bhatia
 location: San Francisco Bay Area
 
 
-###############################################
+# ------------------------------------------------------------------------------
 # --- List of links in the navigation bar --- #
-###############################################
+# ------------------------------------------------------------------------------
 
 navbar-links:
   Awards: "awards"
@@ -32,9 +32,8 @@ navbar-links:
 #   - name: about
 #   - name: publications
 
-################
+# ------------------------------------------------------------------------------
 # --- Logo --- #
-################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -45,12 +44,11 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/HarshBhatia-biopic1.png"
+#title-img: "" #"/assets/img/HarshBhatia-biopic1.png"
 
-
-#####################################
+# ------------------------------------------------------------------------------
 # --- Footer social media links --- #
-#####################################
+# ------------------------------------------------------------------------------
 
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
@@ -89,12 +87,12 @@ social-network-links:
 # The URL for the feed will be https://<your_website>/feed.xml
 # rss-description: This website is a virtual proof that I'm awesome
 
-###########################
+# ------------------------------------------------------------------------------
 # --- General options --- #
-###########################
+# ------------------------------------------------------------------------------
 
 # Select which social network share links to show in posts
-share-links-active:
+# share-links-active:
   # twitter: true
   # facebook: true
   # linkedin: true
@@ -127,40 +125,9 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
-# ######################################
-# # --- Publications options --- #
-# ######################################
-#
-# scholar:
-#
-#   last_name: Doe
-#   first_name: [John]
-#
-#   style: citesty
-#   locale: en
-#
-#   source: /assets/
-#   bibliography: ref.bib
-#   bibliography_template: bibtemplate
-#   sort_by: year, month
-#   order: descending
-#
-#   replace_strings: true
-#   join_strings: true
-#
-#   details_dir: bibliography
-#   details_layout: bibtex.html
-#   details_link: Details
-#
-#   query: "@*"
-#
-#   bibliography_list_attributes:
-#     reversed: "reversed"
-
-######################################
+# ------------------------------------------------------------------------------
 # --- Colours / background image --- #
-######################################
-
+# ------------------------------------------------------------------------------
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
@@ -193,9 +160,9 @@ footer-hover-col: "#0085A1"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
-#################################
+# ------------------------------------------------------------------------------
 # --- Web Analytics Section --- #
-#################################
+# ------------------------------------------------------------------------------
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
 #gtag: "G-XXXXXXXXXX"
@@ -282,9 +249,40 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
-#################################################################################
+# ------------------------------------------------------------------------------
+# # --- Publications options --- #
+# ------------------------------------------------------------------------------
+#
+# scholar:
+#
+#   last_name: Doe
+#   first_name: [John]
+#
+#   style: citesty
+#   locale: en
+#
+#   source: /assets/
+#   bibliography: ref.bib
+#   bibliography_template: bibtemplate
+#   sort_by: year, month
+#   order: descending
+#
+#   replace_strings: true
+#   join_strings: true
+#
+#   details_dir: bibliography
+#   details_layout: bibtex.html
+#   details_link: Details
+#
+#   query: "@*"
+#
+#   bibliography_list_attributes:
+#     reversed: "reversed"
+
+
+# ------------------------------------------------------------------------------
 # --- You don't need to touch anything below here (but you can if you want) --- #
-#################################################################################
+# ------------------------------------------------------------------------------
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Los_Angeles"
@@ -297,7 +295,7 @@ kramdown:
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
-defaults:
+# defaults:
   # -
   #   scope:
   #     path: ""
@@ -312,7 +310,7 @@ defaults:
   #   values:
   #     layout: "page"
 
-
+# ------------------------------------------------------------------------------
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -324,11 +322,15 @@ exclude:
   - screenshot.png
   - docs/
 
-# include:
-#   - .htaccess
-#   - _pages
+include:
+  - .htaccess
+  - _pages
+  #- docs
 
+# ------------------------------------------------------------------------------
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   # - jekyll-scholar
+
+# ------------------------------------------------------------------------------
