@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Articles
 
-<ol start="45" reversed="reversed">
+<ol start="46" reversed="reversed">
 
 <li><p>
   <b>Machine Learning-Driven Multiscale Modeling: Bridging the Scales with a
@@ -329,6 +329,13 @@ permalink: /publications/
 ### Conference Proceedings
 
 <ol reversed>
+
+  <li><p>
+    <b>Data Movement Visualized: A Unified Framework for Tracking and Visualizing Data Movements in Heterogeneous Architectures</b><br/>
+    SP Kesavan, <u>Harsh Bhatia</u>, K Dasu, O Pearce, and K-L Ma.
+    In <i>Proceedings of the IEEE Pacific Visualization Conference</i>,
+      Apr. 2024.
+  </p></li>
 
   <li><p><a href="./pubs/2021_SC_MUMMI.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
     <b>Generalizable Coordination of Large Multiscale Ensembles: Challenges and Learnings at Scale</b><br/>
