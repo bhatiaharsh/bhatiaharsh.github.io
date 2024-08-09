@@ -11,6 +11,24 @@ permalink: /publications/
 <ol start="46" reversed="reversed">
 
 <li><p>
+  <a href="/docs/pubs/2024_TVCG_particles.pdf" target=_blank>[PDF]</a>
+  <b>Progressive Tree-Based Compression of Large-Scale Particle Data</b><br/>
+  D Hoang, <u>Harsh Bhatia</u>, P Lindstrom, and V Pascucci.<br/>
+  <i>IEEE Transactions on Visualization and Computer Graphics (TVCG),</i>
+    vol. 30, issue 7, pp. 4321&ndash;4338, Mar 2023.
+  <a href="https://doi.org/10.1109/TVCG.2023.3260628" target=_blank>doi:10.1109/TVCG.2023.3260628</a>.
+</p></li>
+
+<li><p>
+  <a href="/docs/pubs/2023_COSB.pdf" target=_blank>[PDF]</a>
+  <b>The Confluence of Machine Learning and Multiscale Simulations</b><br/>
+  <u>Harsh Bhatia</u>, F Aydin, TS Carpenter, FC Lightstone, P-T Bremer,
+    HI Ingólfsson, DV Nissley, and FH Streitz.<br/>
+  <i>Current Opinions in Structural Biology</i> vol. 80, Jun 2023.
+  <a href="https://doi.org/10.1016/j.sbi.2023.102569" target=_blank>doi:10.1016/j.sbi.2023.102569</a>.
+</p></li>
+
+<li><p>
   <b>Machine Learning-Driven Multiscale Modeling: Bridging the Scales with a
     Next-Generation Simulation Infrastructure</b><br/>
   HI Ingólfsson, <u>Harsh Bhatia</u>, F Aydin, T Oppelstrup, CA López, LG Stanton,
@@ -24,31 +42,24 @@ permalink: /publications/
 </p></li>
 
 <li><p>
-  <b>The Confluence of Machine Learning and Multiscale Simulations</b><br/>
-  <u>Harsh Bhatia</u>, F Aydin, TS Carpenter, FC Lightstone, P-T Bremer,
-    HI Ingólfsson, DV Nissley, and FH Streitz.<br/>
-  <i>Current Opinions in Structural Biology</i> vol. 80, Jun 2023.
-  <a href="https://doi.org/10.1016/j.sbi.2023.102569" target=_blank>doi:10.1016/j.sbi.2023.102569</a>.
+  <!--<a href="/docs/pubs/2023_TVCG_Callflow.pdf" target=_blank>[PDF]</a>-->
+  <b>Scalable Comparative Visualization of Ensembles of Call Graphs</b><br/>
+  SP Kesavan, <u>Harsh Bhatia</u>, A Bhatele, S Brink, O Pearce, T Gamblin,
+    P-T Bremer, and K-L Ma.<br/>
+  <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
+    vol. 29, issue 3, 1691&ndash;1704, Nov, 2023.
+  <a href="https://doi.org/10.1109/TVCG.2021.3129414" target=_blank>doi:10.1109/TVCG.2021.3129414</a>.
 </p></li>
 
-<li><p >
-  <b>Progressive Tree-Based Compression of Large-Scale Particle Data</b><br/>
-  D Hoang, <u>Harsh Bhatia</u>, P Lindstrom, and V Pascucci.<br/>
-  <i>IEEE Transactions on Visualization and Computer Graphics (TVCG),</i>
-    Mar 2023.
-  <a href="https://doi.org/10.1109/TVCG.2023.3260628" target=_blank>doi:10.1109/TVCG.2023.3260628</a>.
-</p></li>
-
-<li><p >
+<li><p>
   <b>Data-driven Model for Divertor Plasma Detachment Prediction</b><br/>
   B Zhu, M Zhao, <u>Harsh Bhatia</u>, X Xu, P-T Bremer, W Meyer, N Li, and T Rognlien.<br/>
   <i>Journal of Plasma Physics</i> vol. 88, number 5, article: 895880504, Oct 2022.
   <a href="https://doi.org/10.1017/S002237782200085X" target=_blank>doi:10.1017/S002237782200085X</a>.
 </p></li>
 
-<li><p >
-  <b>A Biology-Informed Similarity Metric for Simulated Patches of Human Cell
-    Membrane</b><br/>
+<li><p>
+  <b>A Biology-Informed Similarity Metric for Simulated Patches of Human Cell Membrane</b><br/>
   <u>Harsh Bhatia</u>, JJ Thiagarajan, R Anirudh, TS Jayram,
     T Oppelstrup, HI Ingolfsson, FC Lightstone, and P-T Bremer.<br/>
   <i>Machine Learning: Science and Technology</i>,
@@ -56,7 +67,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1088/2632-2153/ac8523" target=_blank>doi:10.1088/2632-2153/ac8523</a>.
 </p></li>
 
-<li><p >
+<li><p>
+  <!--<a href="/docs/pubs/pdf.pdf" target=_blank>[PDF]</a>-->
   <b>Asynchronous Reciprocal Coupling of Martini 2.2 Coarse-Grained and CHARMM36
     All-Atom Simulations in an Automated Multiscale Framework</b><br/>
   CA López, X Zhang, F Aydin, R Shrestha, QN Van, CB Stanley, TS Carpenter,
@@ -69,7 +81,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1021/acs.jctc.2c00168" target=_blank>doi:10.1021/acs.jctc.2c00168</a>.
 </p></li>
 
-<li><p >
+<li><p>
+  <!--<a href="/docs/pubs/pdf.pdf" target=_blank>[PDF]</a>-->
   <b>Exploring CRD Mobility during RAS/RAF Engagement at the Membrane</b><br/>
   K Nguyen, CA López, Chris Neale, QN Van, TS Carpenter,
     F Di Natale, T Travers, TH Tran, AH Chan,
@@ -81,7 +94,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1016/j.bpj.2022.06.035" target=_blank>doi:10.1016/j.bpj.2022.06.035</a>.
 </p></li>
 
-<li><p><a href="./pubs/2022_TVCG_amm.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2022_TVCG_amm.pdf" target=_blank>[PDF]</a>
   <b>AMM: Adaptive Multilinear Meshes</b><br/>
   <u>Harsh Bhatia</u>, D Hoang, N Morrical, V Pascucci, P-T Bremer, and P Lindstrom.<br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
@@ -90,7 +104,7 @@ permalink: /publications/
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>Best Paper Award</b> at IEEE Pacific Visualization Symposium.
 </p></li>
 
-<li><p >
+<li><p>
   <b>Machine Learning-driven Multiscale Modeling Reveals Lipid-Dependent Dynamics
     of RAS Signaling Protein</b><br/>
   HI Ingólfsson, C Neale, TS Carpenter, R Shrestha, CA Lopez, T Tran, T Oppelstrup,
@@ -105,16 +119,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1073/pnas.2113297119" target=_blank>doi:10.1073/pnas.2113297119</a>.
 </p></li>
 
-<li><p >
-  <b>Scalable Comparative Visualization of Ensembles of Call Graphs</b><br/>
-  SP Kesavan, <u>Harsh Bhatia</u>, A Bhatele, S Brink, O Pearce, T Gamblin,
-    P-T Bremer, and K-L Ma.<br/>
-  <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
-    vol. 29, issue 3, 1691&ndash;1704, Nov, 2021.
-  <a href="https://doi.org/10.1109/TVCG.2021.3129414" target=_blank>doi:10.1109/TVCG.2021.3129414</a>.
-</p></li>
-
-<li><p >
+<li><p>
+  <a href="/docs/pubs/2021_TVCG_mscale.pdf" target=_blank>[PDF]</a>
   <b>Vector Field Decompositions using Multiscale Poisson Kernel</b><br/>
   <u>Harsh Bhatia</u>, RM Kirby, V Pascucci, and P-T Bremer.<br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
@@ -122,7 +128,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1109/TVCG.2020.2984413" target=_blank>doi:10.1109/TVCG.2020.2984413</a>.
 </p></li>
 
-<li><p><a href="./pubs/2021_EuroVis_TrackingGraphs.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2021_EuroVis_TrackingGraphs.pdf" target=_blank>[PDF]</a>
   <b>Leveraging Topological Events in Tracking Graphs for Understanding Particle Diffusion</b><br/>
   T McDonald, R Shrestha, X Yi, <u>Harsh Bhatia</u>, De Chen, D Goswami, V Pasucci,
     TJ Turbyville, and P-T Bremer.<br/>
@@ -131,7 +138,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1111/cgf.14304" target=_blank>doi:10.1111/cgf.14304</a>.
 </p></li>
 
-<li><p><a href="./pubs/2021_NatureMI_dynim.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2021_NatureMI_dynim.pdf" target=_blank>[PDF]</a>
   <b>Machine Learning Based Dynamic-Importance Sampling for Adaptive Multiscale Simulations</b><br/>
   <u>Harsh Bhatia</u>, TS Carpenter, HI Ingólfsson, Gautham Dharuman, P Karande,
     S Liu, T Oppelstrup, C Neale, FC Lightstone, B Van Essen, JN Glosli, and P-T Bremer.<br/>
@@ -141,6 +149,7 @@ permalink: /publications/
 </p></li>
 
 <li><p>
+  <!--<a href="/docs/pubs/2021_TVCG_Callflow.pdf" target=_blank>[PDF]</a>-->
   <b>Visualizing Hierarchical Performance Profiles of Parallel Codes using CallFlow</b><br/>
   HT Nguyen, A Bhatele, N Jain, SP Kesavan, <u>Harsh Bhatia</u>, T Gamblin,
     K-L Ma, and P-T Bremer.<br/>
@@ -149,7 +158,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1109/TVCG.2019.2953746" target=_blank>doi:10.1109/TVCG.2019.2953746</a>.
 </p></li>
 
-<li><p >
+<li><p>
+  <!--<a href="/docs/pubs/pdf.pdf" target=_blank>[PDF]</a>-->
   <b>Efficient and Flexible Hierarchical Data Layouts for a Unified Encoding
     of Scalar Field Precision and Resolution</b><br/>
   D Hoang, B Summa, <u>Harsh Bhatia</u>, P Lindstrom, P Klacansky, W Usher,
@@ -159,7 +169,7 @@ permalink: /publications/
   <a href="https://doi.org/10.1109/TVCG.2020.3030381" target=_blank>doi:10.1109/TVCG.2020.3030381</a>.
 </p></li>
 
-<li><p >
+<li><p>
   <b>Capturing Biologically Complex Tissue-Specific Membranes at Different Levels
     of Compositional Complexity</b><br/>
   HI Ingólfsson, <u>Harsh Bhatia</u>, T Zeppelin, WF Drew  Bennett, K Carpenter,
@@ -169,7 +179,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1021/acs.jpcb.0c03368" target=_blank>doi:10.1021/acs.jpcb.0c03368</a>.
 </p></li>
 
-<li><p >
+<li><p>
+  <!--<a href="/docs/pubs/pdf.pdf" target=_blank>[PDF]</a>-->
   <b>Scalable Topological Data Analysis and Visualization for Evaluating Data-Driven
     Models in Scientific Applications</b><br/>
   S Liu, D Wang, D Maljovec, R Anirudh, JJ Thiagarajan, SA Jacobs, B Van Essen,
@@ -188,7 +199,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1021/acs.jctc.9b00453" target=_blank>doi:10.1021/acs.jctc.9b00453</a>.
 </p></li>
 
-<li><p><a href="./pubs/2018_VIS_VPC.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2018_VIS_VPC.pdf" target="_blank">[PDF]</a>
   <b>A Study of the Trade-off between Reducing Precision and Reducing Resolution
     for Data Analysis and Visualization</b><br/>
   D Hoang, P Klacansky, <u>Harsh Bhatia</u>, P-T Bremer, P Lindstrom, and V Pascucci.<br/>
@@ -197,7 +209,8 @@ permalink: /publications/
   <a href="https://doi.org/10.1109/TVCG.2018.2864853" target=_blank>doi:10.1109/TVCG.2018.2864853</a>.
 </p></li>
 
-<li><p><a href="./pubs/2018_EuroVis_TreeScope.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2018_EuroVis_TreeScope.pdf" target="_blank">[PDF]</a>
   <b>Interactive Investigation of Traffic Congestion on Fat-Tree Networks Using
     TreeScope</b><br/>
   <u>Harsh Bhatia</u>, N Jain, A Bhatele, Y Livnat, J Domke, V Pascucci, and P-T Bremer.<br/>
@@ -206,7 +219,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1111/cgf.13442" target=_blank>doi:10.1111/cgf.13442</a>.
 </p></li>
 
-<li><p><a href="./pubs/2018_JCC_TopoMS.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2018_JCC_TopoMS.pdf" target="_blank">[PDF]</a>
   <b>TopoMS: Comprehensive Topological Exploration for Molecular and Condensed-Matter Systems</b><br/>
   <u>Harsh Bhatia</u>, AG Gyulassy, V Lordi, JE Pask, V Pascucci, and P-T Bremer.<br/>
   <i>Journal of Computational Chemistry</i>,
@@ -238,7 +252,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1021/acs.jpcc.7b02006" target=_blank>doi:10.1021/acs.jpcc.7b02006</a>.
 </p></li>
 
-<li><p><a href="./pubs/2016_SIGCAS_Visualization.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2016_SIGCAS_Visualization.pdf" target="_blank">[PDF]</a>
   <b>Enabling Discovery Through Visual Exploration: An Introduction to Data Visualization & Its Applications</b><br/>
   <u>Harsh Bhatia</u>.<br/>
   <i>ACM SIGCAS Computer Society</i>,
@@ -246,7 +261,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1145/3024949.3024952" target=_blank>doi:10.1145/3024949.3024952</a>.
 </p></li>
 
-<li><p><a href="./pubs/2016_PacVis_robustness.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2016_PacVis_robustness.pdf" target="_blank">[PDF]</a>
   <b>Critical Point Cancellation in 3D Vector Fields: Robustness and Discussion</b><br/>
   P Skraba, P Rosen, B Wang, G Chen, <u>Harsh Bhatia</u>, and V Pascucci. <br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
@@ -257,7 +273,8 @@ permalink: /publications/
   at IEEE Pacific Visualization Symposium, 2016.</b>
 </p></li>
 
-<li><p><a href="./pubs/2015_CGTA_JacobiSetSimplification.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2015_CGTA_JacobiSetSimplification.pdf" target="_blank">[PDF]</a>
   <b>Local, Smooth, and Consistent Jacobi Set Simplification.</b><br/>
   <u>Harsh Bhatia</u>, B Wang, G Norgard, V Pascucci, and P-T Bremer<br/>
   <i>Computational Geometry &mdash; Theory and Applications</i>,
@@ -265,7 +282,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1016/j.comgeo.2014.10.009" target=_blank>doi:10.1016/j.comgeo.2014.10.009</a>.
 </p></li>
 
-<li><p><a href="./pubs/2014_TVCG_nHHD.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2014_TVCG_nHHD.pdf" target="_blank">[PDF]</a>
   <b>The Natural Helmholtz-Hodge Decomposition for Open-Boundary Flow Analysis</b><br/>
   <u>Harsh Bhatia</u>, V Pascucci, and P-T Bremer.<br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
@@ -273,7 +291,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1109/TVCG.2014.2312012" target=_blank>doi:10.1109/TVCG.2014.2312012</a>.
 </p></li>
 
-<li><p><a href="./pubs/2014_EuroVis_frames.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2014_EuroVis_frames.pdf" target="_blank">[PDF]</a>
   <b>Extracting Features from Time-Dependent Vector Fields Using Internal Reference Frames</b><br/>
   <u>Harsh Bhatia</u>, V Pascucci, RM Kirby, and P-T Bremer.<br/>
   <i>Computer Graphics Forum (Proceedings of EuroVis)</i>,
@@ -281,7 +300,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1111/cgf.12358" target=_blank>doi:10.1111/cgf.12358</a>.
 </p></li>
 
-<li><p><a href="./pubs/2013_TVCG_survey.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2013_TVCG_survey.pdf" target="_blank">[PDF]</a>
   <b>The Helmholtz-Hodge Decomposition &mdash; A Survey</b><br/>
   <u>Harsh Bhatia</u>, G Norgard, V Pascucci, and P-T Bremer.<br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
@@ -291,7 +311,8 @@ permalink: /publications/
    &nbsp;&nbsp;&nbsp;&nbsp;<b>Appeared as the <a href="./docs/2013_TVCG_spotlight.png" target="_blank">IEEE TVCG spotlight of the month</a></b>.
 </p></li>
 
-<li><p><a href="./pubs/2013_EuroVis_robustness.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2013_EuroVis_robustness.pdf" target="_blank">[PDF]</a>
   <b>Visualizing Robustness of Critical Points for 2D Time-Varying Vector Fields</b><br/>
   B Wang, P Rosen, P Skraba, <u>Harsh Bhatia</u>, and V Pascucci.<br/>
   <i>Computer Graphics Forum (Proceedings of EuroVis)</i>,
@@ -299,15 +320,17 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1111/cgf.12109" target=_blank>doi:10.1111/cgf.12109</a>.
 </p></li>
 
-<li><p><a href="./pubs/2013_TVCG_comments.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2013_TVCG_comments.pdf" target="_blank">[PDF]</a>
   <b>Comments on the "Meshless Helmholtz-Hodge decomposition"</b><br/>
   <u>Harsh Bhatia</u>, G Norgard, V Pascucci, and P-T Bremer.<br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
    vol. 19, no. 3, pp. 527&ndash;528, Mar. 2013.
-  <a href="http://dx.doi.org/10.1109/TVCG.2012.62" target==_blank>doi:10.1109/TVCG.2012.62</a>.
+  <a href="http://dx.doi.org/10.1109/TVCG.2012.62" target=_blank>doi:10.1109/TVCG.2012.62</a>.
 </p></li>
 
-<li><p><a href="./pubs/2012_TVCG_edgeMaps.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2012_TVCG_edgeMaps.pdf" target="_blank">[PDF]</a>
   <b>Flow Visualization with Quantified Spatial and Temporal Errors using Edge Maps</b><br/>
   <u>Harsh Bhatia</u>, S Jadhav, P-T Bremer, G Chen, JA Levine, LG Nonato, and V Pascucci.<br/>
   <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>,
@@ -315,7 +338,8 @@ permalink: /publications/
   <a href="http://dx.doi.org/10.1109/TVCG.2011.265" target=_blank>doi:10.1109/TVCG.2011.265</a>.
 </p></li>
 
-<li><p><a href="./pubs/2012_EuroVis_QMaps.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+<li><p>
+  <a href="/docs/pubs/2012_EuroVis_QMaps.pdf" target="_blank">[PDF]</a>
   <b>A Quantized boundary representation of 2D Flow</b><br/>
   JA Levine, S Jadhav, <u>Harsh Bhatia</u>, V Pascucci, and P-T Bremer.<br/>
   <i>Computer Graphics Forum (Proceedings of EuroVis)</i>,
@@ -331,13 +355,15 @@ permalink: /publications/
 <ol reversed>
 
   <li><p>
+    <!--<a href="/docs/pubs/pdf.pdf" target=_blank>[PDF]</a>-->
     <b>Data Movement Visualized: A Unified Framework for Tracking and Visualizing Data Movements in Heterogeneous Architectures</b><br/>
     SP Kesavan, <u>Harsh Bhatia</u>, K Dasu, O Pearce, and K-L Ma.
     In <i>Proceedings of the IEEE Pacific Visualization Conference</i>,
       Apr. 2024.
   </p></li>
 
-  <li><p><a href="./pubs/2021_SC_MUMMI.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2021_SC_MUMMI.pdf" target="_blank">[PDF]</a>
     <b>Generalizable Coordination of Large Multiscale Ensembles: Challenges and Learnings at Scale</b><br/>
     <u>Harsh Bhatia</u>, F Di Natale, JY Moon, X Zhang, JR Chavez, F Aydin,
       CB Stanley, T Oppelstrup, C Neale, S Kokkila Schumacher, D Ahn, S Herbein,
@@ -349,14 +375,16 @@ permalink: /publications/
     <a href="http://dx.doi.org/10.1145/3458817.3476210" target=_blank>doi:10.1145/3458817.3476210</a>.
   </p></li>
 
-  <li><p><a href="./pubs/2021_isvc_pathlines.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2021_isvc_pathlines.pdf" target="_blank">[PDF]</a>
     <b>Data-Driven Estimation of Temporal-Sampling Errors in Unsteady Flows</b><br/>
     <u>Harsh Bhatia</u>, SN Petruzza, R Anirudh, AG Gyulassy, RM Kirby, V Pascucci, and P-T Bremer.</br>
     In: <i>Bebis G. et al. (eds) Advances in Visual Computing. ISVC 2021. Lecture Notes in Computer Science</i>, vol 13017. Springer, Cham.
     <a href="http://dx.doi.org/10.1007/978-3-030-90439-5_19" target=_blank>doi:03010.1007/978-3-030-90439-5_19</a>.
   </p></li>
 
-  <li><p><a href="./pubs/2021_ldav_particles.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2021_ldav_particles.pdf" target="_blank">[PDF]</a>
     <b>High-quality and Low-memory-footprint Progressive Decoding of Large-scale Particle Data</b><br/>
      D Hoang, <u>Harsh Bhatia</u>, P Lindstrom, and V Pascucci.</br>
      <i>The 11th IEEE Symposium on Large Data Analysis and Visualization (LDAV)</i>,
@@ -366,7 +394,8 @@ permalink: /publications/
       <b><a href="./docs/2021_LDAV_honorablemention.pdf" target="_blank">Honorable Mention</a>.</b>
     </p></li>
 
-  <li><p><a href="./pubs/2019_SC_MUMMI.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2019_SC_MUMMI.pdf" target="_blank">[PDF]</a>
     <b>A Massively Parallel Infrastructure for Adaptive Multiscale Simulations:
       Modeling RAS Initiation Pathway for Cancer</b><br/>
     F Di Natale, <u>Harsh Bhatia</u>, TS Carpenter, C Neale, S Kokkila Schumacher,
@@ -382,6 +411,7 @@ permalink: /publications/
   </p></li>
 
   <li><p>
+    <!--<a href="/docs/pubs/pdf.pdf" target=_blank>[PDF]</a>-->
     <b>Comparing GPU Power and Frequency Capping: A Case Study with the MuMMI Workflow</b><br/>
     T Patki, Z Frye, <u>Harsh Bhatia</u>, F Di Natale, JN Glosli, HI Ingolfsson and B Rountree.
     In <i>2019 IEEE/ACM Workflows in Support of Large-Scale Science (WORKS)</i>,
@@ -390,6 +420,7 @@ permalink: /publications/
   </p></li>
 
   <li><p>
+    <!--<a href="/docs/pubs/pdf.pdf" target=_blank>[PDF]</a>-->
     <b>Interpreting Galilean Invariant Vector Field Analysis via Extended Robustness</b><br/>
     B Wang, R Bujack, P Rosen, P Skraba, <u>Harsh Bhatia</u>, and H Hagen.<br/>
     In <i>Topological Methods in Data Analysis and Visualization V</i>,
@@ -397,7 +428,8 @@ permalink: /publications/
    <a href="http://dx.doi.org/10.1007/978-3-030-43036-8_14" target=_blank>doi:10.1007/978-3-030-43036-8_14</a>.
   </p></li>
 
-  <li><p><a href="./pubs/2016_PacVis_relativeAngle.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2016_PacVis_relativeAngle.pdf" target="_blank">[PDF]</a>
     <b>Interactive Exploration of Atomic Trajectories Through Relative-Angle Distribution
       and Associated Uncertainties</b><br/>
     <u>Harsh Bhatia</u>, AG Gyulassy, V Pascucci, M Bremer, MT Ong, V Lordi,
@@ -407,7 +439,8 @@ permalink: /publications/
     <a href="http://dx.doi.org/10.1109/PACIFICVIS.2016.7465259" target=_blank>doi:10.1109/PACIFICVIS.2016.7465259</a>.
   </p></li>
 
-  <li><p><a href="./pubs/2015_MScomplexes.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2015_MScomplexes.pdf" target="_blank">[PDF]</a>
     <b>Computing Accurate Morse-Smale Complexes from Gradient Vector Fields</b><br/>
      AG Gyulassy, <u>Harsh Bhatia</u>, P-T Bremer, and V Pascucci.<br/>
      In <i>Topological and Statistical Methods for Complex Data &mdash; Tackling Large-Scale,
@@ -417,7 +450,8 @@ permalink: /publications/
     <a href="http://dx.doi.org/10.1007/978-3-662-44900-4_12" target=_blank>doi:10.1007/978-3-662-44900-4_12</a>.
   </p></li>
 
-  <li><p><a href="./pubs/2014_TopoInVis_robustCP.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2014_TopoInVis_robustCP.pdf" target="_blank">[PDF]</a>
     <b>Robust Detection of Singularities in Vector Fields</b><br/>
     <u>Harsh Bhatia</u>, AG Gyulassy, H Wang, P-T Bremer, and V Pascucci.<br/>
     In <i>Topological Methods in Data Analysis and Visualization III - Theory, Algorithms, and Applications</i>,
@@ -425,7 +459,8 @@ permalink: /publications/
     <a href="http://dx.doi.org/10.1007/978-3-319-04099-8_1" target=_blank>doi:10.1007/978-3-319-04099-8_1</a>.
   </p></li>
 
-  <li><p><a href="./pubs/2012_TopoInVis_local2DFlow.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2012_TopoInVis_local2DFlow.pdf" target="_blank">[PDF]</a>
     <b>Consistent Approximation of Local Flow Behavior for 2D Vector Fields</b><br/>
     S Jadhav, <u>Harsh Bhatia</u>, P-T Bremer, JA Levine, LG Nonato,
      and V Pascucci.<br/>
@@ -435,7 +470,8 @@ permalink: /publications/
     <a href="http://dx.doi.org/10.1007/978-3-642-23175-9_10" target=_blank>doi:10.1007/978-3-642-23175-9_10</a>.
   </p></li>
 
-  <li><p><a href="./pubs/2011_PacVis_edgeMaps.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2011_PacVis_edgeMaps.pdf" target="_blank">[PDF]</a>
     <b>Edge Maps: Representing Flow with Bounded Error</b><br/>
     <u>Harsh Bhatia</u>, S Jadhav, P-T Bremer, G Chen, JA Levine, LG Nonato,
      and V Pascucci.<br/>
@@ -447,7 +483,8 @@ permalink: /publications/
     and won the <a href="./docs/2011_PacVis_bestPaper.jpg" target="_blank">Best Paper Award</a>.</b>
   </p></li>
 
-  <li><p><a href="./pubs/2008_PerMIS.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <a href="/docs/pubs/2008_PerMIS.pdf" target="_blank">[PDF]</a>
     <b>A Queuing-Theoretic Framework for Modeling and Analysis of Mobility in WSNs</b><br/>
     <u>Harsh Bhatia</u>, RB Lenin, A Munjal, S Ramaswamy, and S Srivastava.<br/>
     In <i>Proceedings of the 8th Workshop on Performance Metrics for Intelligent Systems (PerMIS)</i>,
@@ -458,20 +495,23 @@ permalink: /publications/
 
 ### Dissertations
 <ul>
-  <li><p><a href="./pubs/2015_HarshBhatia-PhD_dissertation.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <!--<a href="/docs/pubs/2015_HarshBhatia-PhD_dissertation.pdf" target="_blank">[PDF]</a>-->
     <b>Consistent Feature Extraction From Vector Fields: Combinatorial Representations and Analysis Under Local Reference Frames</b><br/>
     <u>Harsh Bhatia</u>.<br/>
     Ph.D. Dissertation, The University of Utah, USA. May 2015.
   </p></li>
 
-  <li><p><a href="./pubs/2007_HarshBhatia_BTP.pdf" target="_blank"><img src="img/pdf_logo.gif" /></a>
+  <li><p>
+    <!--<a href="/docs/pubs/2007_HarshBhatia_BTP.pdf" target="_blank">[PDF]</a>-->
     <b>Application of QNA to analyze the 'Queueing Network Mobility Model' of Mobile Ad-hoc Networks</b><br/>
     <u>Harsh Bhatia</u>.<br/>
     B.Tech. Project Report, Dhirubhai Ambani Institute of Information and Communication Technology, India. Jun 2007.
   </p></li>
 </ul>
 
-### Other Peer-Reviewed Papers
+
+<!-- ### Other Peer-Reviewed Papers
 <ul>
   <li><p>
     <b>A Parameter Based Approach to Counter SPIT</b><br/>
@@ -491,29 +531,30 @@ permalink: /publications/
 
 ### Non-Peer-Reviewed Posters
 <ul>
-  <li><p> <a href="./pubs/2016_LLNL_postdocposter.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
+  <li><p>
+   <a href="/docs/pubs/2016_LLNL_postdocposter.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
     <b>Topological Analysis for Molecular Dynamics.</b><br/>
     In <i>Annual Post-Doc Poster Symposium</i>, Lawrence Livermore National Laboratory, Jun. 2016.
   </p></li>
 
-  <li><p> <a href="./pubs/2015_LLNL_postdocposter.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
+  <li><p> <a href="/docs/pubs/2015_LLNL_postdocposter.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
     <b>Topological Analysis for Molecular Dynamics.</b><br/>
     In <i>Annual Post-Doc Poster Symposium</i>, Lawrence Livermore National Laboratory, Jun. 2015.
   </p></li>
 
-  <li><p> <a href="./pubs/2014_HLF_poster.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
+  <li><p> <a href="/docs/pubs/2014_HLF_poster.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
     <b>Consistent Feature Extraction From Vector Fields: Combinatorial Representations and Analysis Under Local Reference Frames.</b><br/>
     In <i>2nd Heidelberg Laureate Forum</i>, Heidelberg, Germany, Sep. 2014.
   </p></li>
 
-  <li><p> <a href="./pubs/2014_LLNL_postdocposter.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
+  <li><p> <a href="/docs/pubs/2014_LLNL_postdocposter.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
     <b>Enabling Streamline-based Analysis for Time-Varying Flows.</b><br/>
     In <i>Annual Post-Doc Poster Symposium</i>, Lawrence Livermore National Laboratory, Jul. 2014.
   </p></li>
 
-  <li><p> <a href="./pubs/2011_SCIx_flowAnalysis.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
+  <li><p> <a href="/docs/pubs/2011_SCIx_flowAnalysis.pdf" target="_blank"><img src="img/pdf_logo.gif"></a>
     <b>Flow analysis for Scientific Discovery.</b><br/>
     In <i><a href="https://www.sci.utah.edu/scix2011-institute" target="_blank">SCIx</a></i>:
     The annual research showcase of the SCI Institute, Dec. 2011.
   </p></li>
-</ul>
+</ul> -->
