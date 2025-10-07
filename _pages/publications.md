@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### Articles
 
+For a full list of publications, please see <a href="https://scholar.google.com/citations?hl=en&user=lct-GOoAAAAJ" target=_blank>here</a>.
+
 <ol start="46" reversed="reversed">
 
 <li><p>
