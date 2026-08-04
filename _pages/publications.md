@@ -10,7 +10,27 @@ permalink: /publications/
 
 For a full list of publications, please see <a href="https://scholar.google.com/citations?hl=en&user=lct-GOoAAAAJ" target=_blank>here</a>.
 
-<ol start="46" reversed="reversed">
+<ol start="48" reversed="reversed">
+
+<li><p>
+  <b>KRAS4a and KRAS4b Show Distinct Lipid-Dependent Regulation of RAS-RAF Membrane Dynamics</b><br/>
+  K Georgouli, JOB Tempkin, LG Stanton, T Oppelstrup, R Shrestha, TS Carpenter,
+    F Aydin, X Zhang, <u>Harsh Bhatia</u>, Y Yang, QN Van, PA Bonilla, G Gulten,
+    D Goswami, F Di Natale, JR Chavez, JY Moon, G Dharuman, NW Hengartner,
+    DK Simanshu, et al., and HI Ingólfsson.<br/>
+  <i>Journal of Biological Chemistry</i>,
+    vol. 302, issue 3, article 111237, 2026.
+  <a href="https://doi.org/10.1016/j.jbc.2026.111237" target=_blank>doi:10.1016/j.jbc.2026.111237</a>.
+</p></li>
+
+<li><p>
+  <b>Dynamics and Lipid Membrane Coupling of the RAS-RAF Complex Revealed via Multiscale Simulations</b><br/>
+  TS Carpenter, F Aydin, C Neale, QN Van, X Zhang, <u>Harsh Bhatia</u>, JW Sidabras,
+    PH Frank, K Georgouli, JOB Tempkin, et al., and HI Ingólfsson.<br/>
+  <i>Biophysical Journal</i>,
+    vol. 125, pp. 485&ndash;501, 2025.
+  <a href="https://doi.org/10.1016/j.bpj.2025.08.020" target=_blank>doi:10.1016/j.bpj.2025.08.020</a>.
+</p></li>
 
 <li><p>
   <a href="/docs/pubs/2024_TVCG_particles.pdf" target=_blank>[PDF]</a>
